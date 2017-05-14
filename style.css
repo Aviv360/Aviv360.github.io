@@ -71,3 +71,11 @@
 			font-size: 14pt;
 			font-family: "Lucida Console";
 		}
+		p{
+			font-size: 14pt;
+			font-family: "Lucida Console";
+			color: #46484c;
+		}
+		#ghost-killer{
+			vertical-align: center;
+		}
